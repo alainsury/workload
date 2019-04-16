@@ -1,15 +1,45 @@
 { 
 	"average": 80.7, 
 	"data": [
-		{ "timestamp": "2019-04-02T13:00:05.000Z",	"workload": 70.5},
-		{ "timestamp": "2019-04-02T12:55:29.000Z", "workload": 60.5},
-		{ "timestamp": "2019-04-02T12:50:19.000Z",	"workload": 80.9},
-		{ "timestamp": "2019-04-02T12:45:02.000Z", "workload": 60.5},
-		{ "timestamp": "2019-04-02T12:40:27.000Z",	"workload": 30.5},
-		{ "timestamp": "2019-04-02T12:35:59.000Z",	"workload": 10.3},
-		{ "timestamp": "2019-04-02T12:30:19.000Z",	"workload": 14.6},
-		{ "timestamp": "2019-04-02T12:25:44.000Z",	"workload": 60.5},
-		{ "timestamp": "2019-04-02T12:20:38.000Z",	"workload": 120.5},
-		{ "timestamp": "2019-04-02T12:15:29.000Z",	"workload": 5.5}
+		{ 
+			"timestamp": "2019-04-02T13:00:05.000Z",	
+			"workload": 70.5
+		},
+		{ 
+			"timestamp": "2019-04-02T12:55:29.000Z",
+			"workload": 60.5
+		},
+		{ 	
+			"timestamp": "2019-04-02T12:50:19.000Z",
+		 	"workload": 80.9
+		},
+		{ 	
+			"timestamp": "2019-04-02T12:45:02.000Z",
+		 	"workload": 60.5
+		},
+		{ 	
+			"timestamp": "2019-04-02T12:40:27.000Z",
+		 	"workload": 30.5
+		},
+		{ 	
+			"timestamp": "2019-04-02T12:35:59.000Z",
+		 	"workload": 10.3
+		},
+		{ 	
+			"timestamp": "2019-04-02T12:30:19.000Z",
+		 	"workload": 14.6
+		},
+		{ 	
+			"timestamp": "2019-04-02T12:25:44.000Z",
+		 	"workload": 60.5
+		},
+		{ 	
+			"timestamp": "2019-04-02T12:20:38.000Z",
+		 	"workload": 120.5
+		},
+		{ 	
+			"timestamp": "2019-04-02T12:15:29.000Z",
+			"workload": 5.5
+		}
 	]
 }
